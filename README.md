@@ -1,1 +1,1 @@
-# e-itim-etkinlik--renci
+# egitim-etkinlik-ogrenci
